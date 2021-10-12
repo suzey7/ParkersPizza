@@ -1,0 +1,102 @@
+/*
+Author: Suzette Kachmaryk
+Date: 10/12/2021
+File Name: pizzaStyles.css
+*/
+
+
+/* Golbal Style rules */
+
+
+/* Style rule for images */
+img {
+   
+}
+
+body {
+	background-color: #b3ecff;
+	color: #0b439e;
+	font-family: Sans Serif, Serif;
+}
+
+/* Style rules for body */
+body p{
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: left;
+}
+
+ul {
+	font-size: 1em;
+	text-align:left;
+}
+
+li {
+
+}
+
+button {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+
+/* Style rules for header content */
+header {
+	font-weight: bold;
+	text-align: center;
+    font-size: 2em;
+	border-style: solid;
+	border-color: maroon;
+	border-width: 3px;
+	padding: 1px;
+	margin: 3px;
+}
+
+/* Style rules for navigation area */
+nav {
+
+}
+
+nav p {
+
+}
+ 
+nav ul {
+
+}
+ 
+nav li {
+
+}
+
+.meat {
+	color: brown;
+}
+
+.veg {
+	color: green;
+}
+
+.cheese {
+	color: darkorange;
+
+/* Style rules for main content */
+main {
+
+}
+ 
+main p {
+
+}
+ 
+
+
+/* Style rules for footer content */
+footer {
+  
+}
+ 
+footer a {
+
+}
